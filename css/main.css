@@ -1,0 +1,10 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+
+.bg-blue {
+  background: blue;
+}
+.blue {
+  color: blue;
+}
